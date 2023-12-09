@@ -1,0 +1,34 @@
+.loginWrap {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 60%;
+  margin: auto;
+  margin-top: 6rem;
+}
+
+.loginbox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2rem;
+  padding: 20px;
+  width: 40%;
+  background: #e7e7e6f6;
+}
+.inputBox {
+  margin-top: 20px !important;
+  width: 90%;
+}
+.submitBtn {
+  margin-top: 1rem !important;
+}
+
+.createnewAccount {
+  text-decoration: none;
+  outline: none;
+  color: blue;
+  font-weight: bold;
+}
